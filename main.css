@@ -1,0 +1,32 @@
+.headz1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 75%;
+    align-items: center;
+}
+
+.headz2 {
+    background-color: #4aaaa5;
+    width: 75%;
+    
+}
+
+.headz3 {
+    display: flex;
+    flex-direction: row;
+    justify-items: space-between;
+    font-size: 80%
+}
+
+.picz {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-right: 24px;
+}
+
+.bodywordz {
+    padding-left: 24px;
+}
